@@ -1,6 +1,6 @@
 module github.com/dominant-strategies/quaikey-util
 
-go 1.18
+go 1.20
 
 require (
 	github.com/docker/docker v1.6.2
